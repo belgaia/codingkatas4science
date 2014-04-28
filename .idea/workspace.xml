@@ -23,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mendelRulesCalculator.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mendelRulesCalculator.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="47" selection-start="236" selection-end="236" vertical-scroll-proportion="0.25182483" vertical-offset="33" max-vertical-offset="425">
+            <state line="6" column="47" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="425">
               <folding>
-                <element signature="e#32#77#0" expanded="true" />
+                <marker date="1398706462286" expanded="true" signature="32:123" placeholder="import ..." />
               </folding>
             </state>
           </provider>
@@ -40,15 +40,16 @@
             <state line="11" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="510">
               <folding>
                 <element signature="e#33#69#0" expanded="true" />
+                <marker date="1398706419989" expanded="true" signature="225:1096" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeredityType.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HeredityType.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/biology/HeredityType.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="18" selection-start="39" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+            <state line="5" column="29" selection-start="160" selection-end="160" vertical-scroll-proportion="0.310219" vertical-offset="0" max-vertical-offset="274">
               <folding />
             </state>
           </provider>
@@ -58,7 +59,9 @@
         <entry file="file://$PROJECT_DIR$/biology/BlossomColor.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding />
+              <folding>
+                <marker date="1398701920055" expanded="true" signature="54:176" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,9 +78,9 @@
       <list>
         <option value="$PROJECT_DIR$/biology/BlossomColor.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/biology/HeredityType.py" />
         <option value="$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py" />
         <option value="$PROJECT_DIR$/biology/mendelRulesCalculator.py" />
+        <option value="$PROJECT_DIR$/biology/HeredityType.py" />
       </list>
     </option>
   </component>
@@ -407,7 +410,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -438,7 +441,9 @@
     <entry file="file://$PROJECT_DIR$/biology/BlossomColor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
+          <folding>
+            <marker date="1398701920055" expanded="true" signature="54:176" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -449,28 +454,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/biology/HeredityType.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="18" selection-start="39" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="510">
           <folding>
             <element signature="e#33#69#0" expanded="true" />
+            <marker date="1398706419989" expanded="true" signature="225:1096" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="47" selection-start="236" selection-end="236" vertical-scroll-proportion="0.25182483" vertical-offset="33" max-vertical-offset="425">
+        <state line="6" column="47" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="425">
           <folding>
-            <element signature="e#32#77#0" expanded="true" />
+            <marker date="1398706462286" expanded="true" signature="32:123" placeholder="import ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biology/HeredityType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="160" selection-end="160" vertical-scroll-proportion="0.310219" vertical-offset="0" max-vertical-offset="274">
+          <folding />
         </state>
       </provider>
     </entry>
