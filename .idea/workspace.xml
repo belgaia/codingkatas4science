@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="colorCalculator.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="colorCalculator.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="29" selection-start="2302" selection-end="2302" vertical-scroll-proportion="0.0" vertical-offset="1184" max-vertical-offset="1496">
+            <state line="107" column="0" selection-start="2889" selection-end="2889" vertical-scroll-proportion="0.5321101" vertical-offset="1703" max-vertical-offset="2006">
               <folding>
                 <element signature="e#33#43#0" expanded="true" />
               </folding>
@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testColorCalculator.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="testColorCalculator.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="35" selection-start="642" selection-end="642" vertical-scroll-proportion="0.53696495" vertical-offset="202" max-vertical-offset="459">
+            <state line="23" column="55" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="356" max-vertical-offset="748">
               <folding>
                 <element signature="e#32#61#0" expanded="true" />
               </folding>
@@ -63,8 +63,8 @@
         <option value="$PROJECT_DIR$/helpers/fileReader.py" />
         <option value="$PROJECT_DIR$/tests/helpers/fileReader.py" />
         <option value="$PROJECT_DIR$/resources/colorhexrgbtable.csv" />
-        <option value="$PROJECT_DIR$/helpers/colorCalculator.py" />
         <option value="$PROJECT_DIR$/tests/helpers/testColorCalculator.py" />
+        <option value="$PROJECT_DIR$/helpers/colorCalculator.py" />
       </list>
     </option>
   </component>
@@ -610,20 +610,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
+    <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="29" selection-start="2302" selection-end="2302" vertical-scroll-proportion="0.0" vertical-offset="1184" max-vertical-offset="1496">
+        <state line="23" column="55" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="356" max-vertical-offset="748">
           <folding>
-            <element signature="e#33#43#0" expanded="true" />
+            <element signature="e#32#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
+    <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="35" selection-start="642" selection-end="642" vertical-scroll-proportion="0.53696495" vertical-offset="202" max-vertical-offset="459">
+        <state line="107" column="0" selection-start="2889" selection-end="2889" vertical-scroll-proportion="0.5321101" vertical-offset="1703" max-vertical-offset="2006">
           <folding>
-            <element signature="e#32#61#0" expanded="true" />
+            <element signature="e#33#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
