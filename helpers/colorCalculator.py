@@ -33,6 +33,21 @@ def getColorByRGB(red, yellow, blue):
                     return foundColor
             lineCounter = lineCounter +1
 
+def getRgbAndHexByColorname(colorname):
+
+    with open(file, newline='') as csvfile:
+
+        colorReader = csv.reader(csvfile, delimiter=';', quotechar='|')
+        lineCounter = 1
+        for row in colorReader:
+
+            if lineCounter > 1:
+                foundColorInformation = __findColor(colorname, row)
+                if foundColorInformation != None:
+                    return foundColorInformation
+            lineCounter = lineCounter +1
+
+
 def __findRgbColor(red, yellow, blue, colorLine):
 
     colorname = colorLine[0]
@@ -54,3 +69,15 @@ def __findHexColor(hexvalue, colorLine):
 
     if hexvalue == hexFromFile:
         return colorname
+
+def __findColor(colorname, colorLine):
+
+    colornameFromFile = colorLine[0]
+
+    if colornameFromFile == colorname:
+
+        colorRgbAndHex = {}
+        colorRgbAndHex['rgb'] = colorLine[1]
+        colorRgbAndHex['hex'] = colorLine[2]
+        print(colorRgbAndHex)
+        return colorRgbAndHex
