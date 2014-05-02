@@ -9,16 +9,17 @@ class TestMendelRules(TestCase):
 
     def test_firstMendelRuleRedWhite(self):
 
-        self.f1Gen = biology.mendelRulesCalculator.calculateF1Generation(HeredityType.INTERMEDIUS, BlossomColor.WHITE, BlossomColor.RED)
+        self.f1Gen = biology.mendelRulesCalculator.calculateF1Generation(HeredityType.INTERMEDIALE, BlossomColor.WHITE, BlossomColor.RED)
         self.assertEquals(self.f1Gen, BlossomColor.PINK)
 
-        self.f1Gen = biology.mendelRulesCalculator.calculateF1Generation(HeredityType.INTERMEDIUS, BlossomColor.RED, BlossomColor.WHITE)
+        self.f1Gen = biology.mendelRulesCalculator.calculateF1Generation(HeredityType.INTERMEDIALE, BlossomColor.RED, BlossomColor.WHITE)
         self.assertEquals(self.f1Gen, BlossomColor.PINK)
 
     def test_firstMendelRuleBlueRed(self):
 
-        self.f1Gen = biology.mendelRulesCalculator.calculateF1Generation(HeredityType.INTERMEDIUS, BlossomColor.BLUE, BlossomColor.RED)
+        self.f1Gen = biology.mendelRulesCalculator.calculateF1Generation(HeredityType.INTERMEDIALE, BlossomColor.BLUE, BlossomColor.RED)
         self.assertEquals(self.f1Gen, BlossomColor.PURPLE)
 
-        self.f1Gen = biology.mendelRulesCalculator.calculateF1Generation(HeredityType.INTERMEDIUS, BlossomColor.RED, BlossomColor.BLUE)
+        self.f1Gen = biology.mendelRulesCalculator.calculateF1Generation(HeredityType.INTERMEDIALE, BlossomColor.RED, BlossomColor.BLUE)
         self.assertEquals(self.f1Gen, BlossomColor.PURPLE)
+

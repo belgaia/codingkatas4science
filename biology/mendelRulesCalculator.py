@@ -4,7 +4,7 @@ from biology.HeredityType import HeredityType
 
 def calculateF1Generation(heredityType, parentOne, parentTwo):
 
-    if heredityType == HeredityType.INTERMEDIUS:
+    if heredityType == HeredityType.INTERMEDIALE:
         if parentOne == BlossomColor.WHITE:
             if parentTwo == BlossomColor.RED:
                 return BlossomColor.PINK

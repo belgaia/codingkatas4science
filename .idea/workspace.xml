@@ -26,10 +26,8 @@
       <file leaf-file-name="mendelRulesCalculator.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="47" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="425">
-              <folding>
-                <marker date="1398706462286" expanded="true" signature="32:123" placeholder="import ..." />
-              </folding>
+            <state line="6" column="48" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="408">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,19 +35,58 @@
       <file leaf-file-name="testMendelRulesCalculator.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="510">
+            <state line="3" column="18" selection-start="70" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colorCalculator.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="17" selection-start="438" selection-end="438" vertical-scroll-proportion="0.18072289" vertical-offset="242" max-vertical-offset="629">
               <folding>
-                <element signature="e#33#69#0" expanded="true" />
-                <marker date="1398706419989" expanded="true" signature="225:1096" placeholder="..." />
+                <element signature="e#33#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeredityType.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="colorhexrgbtable.csv" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/colorhexrgbtable.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="11220">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testColorCalculator.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+              <folding>
+                <element signature="e#32#61#0" expanded="true" />
+                <marker date="1399044597290" expanded="true" signature="125:286" placeholder="..." />
+                <marker date="1399044597290" expanded="true" signature="160:286" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeredityType.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biology/HeredityType.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="29" selection-start="160" selection-end="160" vertical-scroll-proportion="0.310219" vertical-offset="0" max-vertical-offset="274">
+            <state line="3" column="32" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
               <folding />
             </state>
           </provider>
@@ -58,7 +95,7 @@
       <file leaf-file-name="BlossomColor.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biology/BlossomColor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="255">
               <folding>
                 <marker date="1398701920055" expanded="true" signature="54:176" placeholder="..." />
               </folding>
@@ -78,9 +115,14 @@
       <list>
         <option value="$PROJECT_DIR$/biology/BlossomColor.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py" />
         <option value="$PROJECT_DIR$/biology/mendelRulesCalculator.py" />
         <option value="$PROJECT_DIR$/biology/HeredityType.py" />
+        <option value="$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py" />
+        <option value="$PROJECT_DIR$/helpers/fileReader.py" />
+        <option value="$PROJECT_DIR$/tests/helpers/fileReader.py" />
+        <option value="$PROJECT_DIR$/tests/helpers/testColorCalculator.py" />
+        <option value="$PROJECT_DIR$/resources/colorhexrgbtable.csv" />
+        <option value="$PROJECT_DIR$/helpers/colorCalculator.py" />
       </list>
     </option>
   </component>
@@ -163,7 +205,53 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingkatas4science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingkatas4science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="biology" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingkatas4science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingkatas4science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingkatas4science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingkatas4science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -187,8 +275,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittest TestMendelRules.test_firstMendelRuleBlueRed">
+  <component name="RunManager" selected="Python tests.Unittest TestFileReader.testReadingCSVFile">
     <configuration default="false" name="testMendelRulesCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,6 +333,54 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py" />
       <option name="CLASS_NAME" value="TestMendelRules" />
       <option name="METHOD_NAME" value="test_firstMendelRuleBlueRed" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in testMendelRulesCalculator" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/biology" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="codingkatas4science" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestFileReader.testReadingCSVFile" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/helpers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="codingkatas4science" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/helpers/testColorCalculator.py" />
+      <option name="CLASS_NAME" value="TestFileReader" />
+      <option name="METHOD_NAME" value="testReadingCSVFile" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -376,16 +513,20 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.testMendelRulesCalculator" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRule" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRuleBlueRed" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in testMendelRulesCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestFileReader.testReadingCSVFile" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRuleBlueRed" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRule" />
-        <item index="2" class="java.lang.String" itemvalue="Python.testMendelRulesCalculator" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestFileReader.testReadingCSVFile" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testMendelRulesCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRuleBlueRed" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRule" />
+        <item index="4" class="java.lang.String" itemvalue="Python.testMendelRulesCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -402,16 +543,16 @@
     <frame x="-8" y="-8" width="1040" height="576" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24925224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49440715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -438,6 +579,36 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="47" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biology/HeredityType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biology/BlossomColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="255">
+          <folding>
+            <marker date="1398701920055" expanded="true" signature="54:176" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/biology/BlossomColor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
@@ -449,34 +620,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="274">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="274" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biology/HeredityType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="32" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="274">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="48" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="510">
-          <folding>
-            <element signature="e#33#69#0" expanded="true" />
-            <marker date="1398706419989" expanded="true" signature="225:1096" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="47" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="425">
-          <folding>
-            <marker date="1398706462286" expanded="true" signature="32:123" placeholder="import ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biology/HeredityType.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="29" selection-start="160" selection-end="160" vertical-scroll-proportion="0.310219" vertical-offset="0" max-vertical-offset="274">
+        <state line="3" column="18" selection-start="70" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#32#61#0" expanded="true" />
+            <marker date="1399044597290" expanded="true" signature="125:286" placeholder="..." />
+            <marker date="1399044597290" expanded="true" signature="160:286" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/colorhexrgbtable.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="17" selection-start="438" selection-end="438" vertical-scroll-proportion="0.18072289" vertical-offset="242" max-vertical-offset="629">
+          <folding>
+            <element signature="e#33#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
