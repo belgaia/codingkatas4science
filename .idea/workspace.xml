@@ -23,28 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mendelRulesCalculator.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="48" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testMendelRulesCalculator.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="18" selection-start="70" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="colorCalculator.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="17" selection-start="438" selection-end="438" vertical-scroll-proportion="0.18072289" vertical-offset="242" max-vertical-offset="629">
+            <state line="7" column="11" selection-start="105" selection-end="105" vertical-scroll-proportion="0.51336896" vertical-offset="23" max-vertical-offset="629">
               <folding>
                 <element signature="e#33#43#0" expanded="true" />
               </folding>
@@ -52,52 +34,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colorhexrgbtable.csv" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/colorhexrgbtable.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="11220">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="testColorCalculator.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+            <state line="8" column="54" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
               <folding>
                 <element signature="e#32#61#0" expanded="true" />
-                <marker date="1399044597290" expanded="true" signature="125:286" placeholder="..." />
-                <marker date="1399044597290" expanded="true" signature="160:286" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeredityType.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/biology/HeredityType.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="32" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlossomColor.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/biology/BlossomColor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="255">
-              <folding>
-                <marker date="1398701920055" expanded="true" signature="54:176" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -120,8 +62,8 @@
         <option value="$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py" />
         <option value="$PROJECT_DIR$/helpers/fileReader.py" />
         <option value="$PROJECT_DIR$/tests/helpers/fileReader.py" />
-        <option value="$PROJECT_DIR$/tests/helpers/testColorCalculator.py" />
         <option value="$PROJECT_DIR$/resources/colorhexrgbtable.csv" />
+        <option value="$PROJECT_DIR$/tests/helpers/testColorCalculator.py" />
         <option value="$PROJECT_DIR$/helpers/colorCalculator.py" />
       </list>
     </option>
@@ -589,7 +531,9 @@
     <entry file="file://$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="510">
-          <folding />
+          <folding>
+            <element signature="e#33#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -604,7 +548,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="255">
           <folding>
-            <marker date="1398701920055" expanded="true" signature="54:176" placeholder="..." />
+            <marker date="1398701920055" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -613,7 +557,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
           <folding>
-            <marker date="1398701920055" expanded="true" signature="54:176" placeholder="..." />
+            <marker date="1398701920055" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -637,41 +581,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
+    <entry file="file://$PROJECT_DIR$/resources/colorhexrgbtable.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="48" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="425">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="11220">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="70" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+        <state line="9" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="0.10240964" vertical-offset="136" max-vertical-offset="527">
+          <folding>
+            <element signature="e#33#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biology/mendelRulesCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="48" selection-start="237" selection-end="237" vertical-scroll-proportion="0.38547486" vertical-offset="16" max-vertical-offset="408">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+        <state line="8" column="54" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
           <folding>
             <element signature="e#32#61#0" expanded="true" />
-            <marker date="1399044597290" expanded="true" signature="125:286" placeholder="..." />
-            <marker date="1399044597290" expanded="true" signature="160:286" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/colorhexrgbtable.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11220">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="17" selection-start="438" selection-end="438" vertical-scroll-proportion="0.18072289" vertical-offset="242" max-vertical-offset="629">
+        <state line="7" column="11" selection-start="105" selection-end="105" vertical-scroll-proportion="0.51336896" vertical-offset="23" max-vertical-offset="629">
           <folding>
             <element signature="e#33#43#0" expanded="true" />
           </folding>

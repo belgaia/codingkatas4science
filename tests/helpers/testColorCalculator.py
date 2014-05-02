@@ -7,6 +7,7 @@ class TestFileReader(TestCase):
     def testReadingCSVFile(self):
 
         foundColor = helpers.colorCalculator.getColorByRGB(240, 248, 255)
+        print(foundColor)
         self.assertEquals("AliceBlue", foundColor)
 
 

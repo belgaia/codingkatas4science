@@ -5,27 +5,28 @@ import os
 
 def getColorByRGB(red, yellow, blue):
 
-    readColorFile()
-    #readCsvFile
+    return readColorFile(red, yellow, blue)
 
-def readColorFile():
+def readColorFile(red, yellow, blue):
 
     file = "C:/Users/Agile Developers/PycharmProjects/codingkatas4science/resources/" + 'colorhexrgbtable.csv'
     with open(file, newline='') as csvfile:
-            colorReader = csv.reader(csvfile, delimiter=';', quotechar='|')
-            for row in colorReader:
-                #print(row)
+        colorReader = csv.reader(csvfile, delimiter=';', quotechar='|')
+        lineCounter = 1
+        for row in colorReader:
+
+            if lineCounter > 1:
                 colorname = row[0]
                 rgb = row[1]
                 hex = row[2]
 
-                print("colorname: " + colorname + ", rgb: " + rgb + ", hex: " + hex)
+                rgbTokens = rgb.split(",")
+                redFromFile = rgbTokens[0]
+                yellowFromFile = rgbTokens[1]
+                blueFromFile = rgbTokens[2]
 
+                if (redFromFile == str(red)) & (yellowFromFile == str(yellow)) & (blueFromFile == str(blue)):
+                    print(colorname)
+                    return colorname
 
-def readCsvFile():
-
-    file = "C:/Users/Agile Developers/PycharmProjects/codingkatas4science/resources/" + 'colorhexrgbtable.csv'
-    inputFile = csv.DictReader(open(file))
-
-    for row in inputFile:
-        print(row)
+            lineCounter = lineCounter +1
