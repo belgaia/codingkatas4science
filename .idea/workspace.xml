@@ -26,7 +26,7 @@
       <file leaf-file-name="colorCalculator.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="11" selection-start="105" selection-end="105" vertical-scroll-proportion="0.51336896" vertical-offset="23" max-vertical-offset="629">
+            <state line="51" column="0" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.42213115" vertical-offset="764" max-vertical-offset="1037">
               <folding>
                 <element signature="e#33#43#0" expanded="true" />
               </folding>
@@ -37,9 +37,11 @@
       <file leaf-file-name="testColorCalculator.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="54" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="15" column="49" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="391">
               <folding>
                 <element signature="e#32#61#0" expanded="true" />
+                <marker date="1399056299612" expanded="true" signature="151:504" placeholder="..." />
+                <marker date="1399056299612" expanded="true" signature="383:504" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -219,25 +221,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittest TestFileReader.testReadingCSVFile">
-    <configuration default="false" name="testMendelRulesCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/biology" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="codingkatas4science" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/biology/testMendelRulesCalculator.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in TestFileReader">
     <configuration default="false" name="Unittest TestMendelRules.test_firstMendelRule" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,6 +309,30 @@
       <option name="METHOD_NAME" value="testReadingCSVFile" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in TestFileReader" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/helpers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="codingkatas4science" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/helpers/testColorCalculator.py" />
+      <option name="CLASS_NAME" value="TestFileReader" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -456,19 +464,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.testMendelRulesCalculator" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRule" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRuleBlueRed" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in testMendelRulesCalculator" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestFileReader.testReadingCSVFile" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRule" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRuleBlueRed" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in testMendelRulesCalculator" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestFileReader.testReadingCSVFile" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TestFileReader" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestFileReader.testReadingCSVFile" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testMendelRulesCalculator" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRuleBlueRed" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRule" />
-        <item index="4" class="java.lang.String" itemvalue="Python.testMendelRulesCalculator" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestFileReader" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestFileReader.testReadingCSVFile" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in testMendelRulesCalculator" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRuleBlueRed" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestMendelRules.test_firstMendelRule" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +501,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49440715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36689037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -532,7 +540,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="510">
           <folding>
-            <element signature="e#33#69#0" expanded="true" />
+            <element signature="e#33#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -592,7 +600,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="0.10240964" vertical-offset="136" max-vertical-offset="527">
           <folding>
-            <element signature="e#33#69#0" expanded="true" />
+            <element signature="e#33#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -606,16 +614,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/helpers/testColorCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="54" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+        <state line="15" column="49" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="391">
           <folding>
             <element signature="e#32#61#0" expanded="true" />
+            <marker date="1399056299612" expanded="true" signature="151:504" placeholder="..." />
+            <marker date="1399056299612" expanded="true" signature="383:504" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/helpers/colorCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="105" selection-end="105" vertical-scroll-proportion="0.51336896" vertical-offset="23" max-vertical-offset="629">
+        <state line="51" column="0" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.42213115" vertical-offset="764" max-vertical-offset="1037">
           <folding>
             <element signature="e#33#43#0" expanded="true" />
           </folding>
